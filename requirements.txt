@@ -1,0 +1,3 @@
+pandas
+pandasai[langchain]
+langchain_community
